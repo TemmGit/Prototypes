@@ -1,0 +1,17 @@
+D:\Артём\My Documents\My Development\Prototypes\MyGreatProto\Presentation\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+D:\Артём\My Documents\My Development\Prototypes\MyGreatProto\Presentation\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+D:\Артём\My Documents\My Development\Prototypes\MyGreatProto\Presentation\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+D:\Артём\My Documents\My Development\Prototypes\MyGreatProto\Presentation\ConsoleApplication\bin\Debug\CoreDAL.dll
+D:\Артём\My Documents\My Development\Prototypes\MyGreatProto\Presentation\ConsoleApplication\bin\Debug\CoreDataModel.dll
+D:\Артём\My Documents\My Development\Prototypes\MyGreatProto\Presentation\ConsoleApplication\bin\Debug\EntityFramework.dll
+D:\Артём\My Documents\My Development\Prototypes\MyGreatProto\Presentation\ConsoleApplication\bin\Debug\EntityFramework.SqlServer.dll
+D:\Артём\My Documents\My Development\Prototypes\MyGreatProto\Presentation\ConsoleApplication\bin\Debug\CoreDAL.pdb
+D:\Артём\My Documents\My Development\Prototypes\MyGreatProto\Presentation\ConsoleApplication\bin\Debug\CoreDataModel.pdb
+D:\Артём\My Documents\My Development\Prototypes\MyGreatProto\Presentation\ConsoleApplication\bin\Debug\EntityFramework.xml
+D:\Артём\My Documents\My Development\Prototypes\MyGreatProto\Presentation\ConsoleApplication\bin\Debug\EntityFramework.SqlServer.xml
+D:\Артём\My Documents\My Development\Prototypes\MyGreatProto\Presentation\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+D:\Артём\My Documents\My Development\Prototypes\MyGreatProto\Presentation\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+D:\Артём\My Documents\My Development\Prototypes\MyGreatProto\Presentation\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+D:\Тёма\Мои документы\My Development\Prototypes\MyGreatProto\Presentation\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+D:\Тёма\Мои документы\My Development\Prototypes\MyGreatProto\Presentation\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+D:\Тёма\Мои документы\My Development\Prototypes\MyGreatProto\Presentation\ConsoleApplication\obj\Debug\ConsoleApplication.pdb

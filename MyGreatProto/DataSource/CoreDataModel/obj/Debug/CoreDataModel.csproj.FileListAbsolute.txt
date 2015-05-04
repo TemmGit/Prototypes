@@ -1,0 +1,5 @@
+D:\Артём\My Documents\My Development\Prototypes\MyGreatProto\DataSource\CoreDataModel\bin\Debug\CoreDataModel.dll
+D:\Артём\My Documents\My Development\Prototypes\MyGreatProto\DataSource\CoreDataModel\bin\Debug\CoreDataModel.pdb
+D:\Артём\My Documents\My Development\Prototypes\MyGreatProto\DataSource\CoreDataModel\obj\Debug\CoreDataModel.dll
+D:\Артём\My Documents\My Development\Prototypes\MyGreatProto\DataSource\CoreDataModel\obj\Debug\CoreDataModel.pdb
+D:\Артём\My Documents\My Development\Prototypes\MyGreatProto\DataSource\CoreDataModel\obj\Debug\CoreDataModel.csprojResolveAssemblyReference.cache

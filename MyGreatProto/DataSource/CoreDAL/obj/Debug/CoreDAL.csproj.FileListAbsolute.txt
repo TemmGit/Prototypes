@@ -1,0 +1,12 @@
+D:\Артём\My Documents\My Development\Prototypes\MyGreatProto\DataSource\CoreDAL\bin\Debug\CoreDAL.dll.config
+D:\Артём\My Documents\My Development\Prototypes\MyGreatProto\DataSource\CoreDAL\bin\Debug\CoreDAL.dll
+D:\Артём\My Documents\My Development\Prototypes\MyGreatProto\DataSource\CoreDAL\bin\Debug\CoreDAL.pdb
+D:\Артём\My Documents\My Development\Prototypes\MyGreatProto\DataSource\CoreDAL\bin\Debug\CoreDataModel.dll
+D:\Артём\My Documents\My Development\Prototypes\MyGreatProto\DataSource\CoreDAL\bin\Debug\EntityFramework.dll
+D:\Артём\My Documents\My Development\Prototypes\MyGreatProto\DataSource\CoreDAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Артём\My Documents\My Development\Prototypes\MyGreatProto\DataSource\CoreDAL\bin\Debug\CoreDataModel.pdb
+D:\Артём\My Documents\My Development\Prototypes\MyGreatProto\DataSource\CoreDAL\bin\Debug\EntityFramework.xml
+D:\Артём\My Documents\My Development\Prototypes\MyGreatProto\DataSource\CoreDAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Артём\My Documents\My Development\Prototypes\MyGreatProto\DataSource\CoreDAL\obj\Debug\CoreDAL.csprojResolveAssemblyReference.cache
+D:\Артём\My Documents\My Development\Prototypes\MyGreatProto\DataSource\CoreDAL\obj\Debug\CoreDAL.dll
+D:\Артём\My Documents\My Development\Prototypes\MyGreatProto\DataSource\CoreDAL\obj\Debug\CoreDAL.pdb
